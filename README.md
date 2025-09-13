@@ -11,4 +11,7 @@ House prices are influenced by many factors, making it challenging for buyers, s
 
 Team Members:
 - Shatha Marzuq
-  
+- Ghena bin jadid
+- Norah Al Hussain
+- Albatool Aljaber
+- Jawaher Alrasheed
